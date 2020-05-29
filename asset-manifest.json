@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/rickyandmonty/static/css/main.f80badc8.chunk.css",
-    "main.js": "/rickyandmonty/static/js/main.798c307a.chunk.js",
-    "main.js.map": "/rickyandmonty/static/js/main.798c307a.chunk.js.map",
-    "runtime-main.js": "/rickyandmonty/static/js/runtime-main.d8681d54.js",
-    "runtime-main.js.map": "/rickyandmonty/static/js/runtime-main.d8681d54.js.map",
-    "static/js/2.a88bcba5.chunk.js": "/rickyandmonty/static/js/2.a88bcba5.chunk.js",
-    "static/js/2.a88bcba5.chunk.js.map": "/rickyandmonty/static/js/2.a88bcba5.chunk.js.map",
-    "index.html": "/rickyandmonty/index.html",
-    "precache-manifest.49cab7cdf5dd7d12c9eab0d8cada6a7c.js": "/rickyandmonty/precache-manifest.49cab7cdf5dd7d12c9eab0d8cada6a7c.js",
-    "service-worker.js": "/rickyandmonty/service-worker.js",
-    "static/css/main.f80badc8.chunk.css.map": "/rickyandmonty/static/css/main.f80badc8.chunk.css.map",
-    "static/js/2.a88bcba5.chunk.js.LICENSE.txt": "/rickyandmonty/static/js/2.a88bcba5.chunk.js.LICENSE.txt",
-    "static/media/logout.svg": "/rickyandmonty/static/media/logout.e75855a1.svg"
+    "main.css": "/static/css/main.f80badc8.chunk.css",
+    "main.js": "/static/js/main.798c307a.chunk.js",
+    "main.js.map": "/static/js/main.798c307a.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.d8681d54.js",
+    "runtime-main.js.map": "/static/js/runtime-main.d8681d54.js.map",
+    "static/js/2.a88bcba5.chunk.js": "/static/js/2.a88bcba5.chunk.js",
+    "static/js/2.a88bcba5.chunk.js.map": "/static/js/2.a88bcba5.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.49cab7cdf5dd7d12c9eab0d8cada6a7c.js": "/precache-manifest.49cab7cdf5dd7d12c9eab0d8cada6a7c.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.f80badc8.chunk.css.map": "/static/css/main.f80badc8.chunk.css.map",
+    "static/js/2.a88bcba5.chunk.js.LICENSE.txt": "/static/js/2.a88bcba5.chunk.js.LICENSE.txt",
+    "static/media/logout.svg": "/static/media/logout.e75855a1.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.d8681d54.js",
