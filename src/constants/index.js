@@ -30,7 +30,7 @@ export const NETWORK_ERROR = 'Network Error';
 
 
 
-// Filter Name
+// Filter Names
 export const SPECIES = "species";
 export const GENDER = "gender";
 export const ORIGIN = "origin";
